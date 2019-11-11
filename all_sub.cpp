@@ -171,6 +171,19 @@ void print(){
 	}
 }
 
+void print2(){
+
+	for(int i=0;i<maxPess;i++){
+		printf("#%d: %s | Problemas: %d | Penalidade: %d\n",i+1,Person[i].nome,Person[i].resolvidos, Person[i].penalidade);
+		printf("---------------------------------------------\n");
+		for(int j=0;j<10;j++){
+			if(Person[i].lista[j].was == 0 && Person[i].lista[j].ac == 0) continue;
+			printf("%c | was: %d, ac: %d -> %s\n",Person[i].lista[j].letra, Person[i].lista[j].was, Person[i].lista[j].ac,Person[i].lista[j].hora);			
+		}
+		printf("--------------------------------------------\n");
+	}
+}
+
 int main(){
 
 	// setando o nome de todo mundo
@@ -207,5 +220,6 @@ int main(){
 	after_failure();
 	sort(Person.begin(),Person.end(),func);
 
-	print();
+	//print();
+	print2();
 }
