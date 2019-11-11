@@ -1,0 +1,564 @@
+nome: mll5
+problema: c
+was: 0
+acs: 1
+hora: 02:25
+-----------
+nome: mll5
+problema: d
+was: 0
+acs: 1
+hora: 00:11
+-----------
+nome: mll5
+problema: e
+was: 0
+acs: 1
+hora: 00:23
+-----------
+nome: mll5
+problema: f
+was: 1
+acs: 1
+hora: 01:06
+-----------
+nome: mll5
+problema: g
+was: 5
+acs: 1
+hora: 02:39
+-----------
+nome: mll5
+problema: i
+was: 0
+acs: 1
+hora: 00:51
+-----------
+nome: vdcn
+problema: c
+was: 0
+acs: 1
+hora: 02:09
+-----------
+nome: vdcn
+problema: e
+was: 0
+acs: 1
+hora: 00:14
+-----------
+nome: vdcn
+problema: f
+was: 0
+acs: 1
+hora: 01:38
+-----------
+nome: vdcn
+problema: i
+was: 0
+acs: 1
+hora: 00:35
+-----------
+nome: vdcn
+problema: j
+was: 2
+acs: 1
+hora: 00:55
+-----------
+nome: gasm
+problema: c
+was: 0
+acs: 1
+hora: 01:41
+-----------
+nome: gasm
+problema: e
+was: 0
+acs: 1
+hora: 00:40
+-----------
+nome: gasm
+problema: f
+was: 0
+acs: 1
+hora: 02:09
+-----------
+nome: gasm
+problema: h
+was: 1
+acs: 1
+hora: 01:17
+-----------
+nome: gasm
+problema: i
+was: 0
+acs: 1
+hora: 00:47
+-----------
+nome: alas3
+problema: c
+was: 1
+acs: 1
+hora: 00:11
+-----------
+nome: alas3
+problema: d
+was: 1
+acs: 1
+hora: 01:18
+-----------
+nome: alas3
+problema: e
+was: 2
+acs: 1
+hora: 02:31
+-----------
+nome: alas3
+problema: f
+was: 0
+acs: 1
+hora: 01:26
+-----------
+nome: alas3
+problema: i
+was: 0
+acs: 1
+hora: 00:50
+-----------
+nome: alas3
+problema: j
+was: 1
+acs: 0
+hora: NULL
+-----------
+nome: gcgm
+problema: c
+was: 0
+acs: 1
+hora: 01:17
+-----------
+nome: gcgm
+problema: e
+was: 0
+acs: 1
+hora: 00:56
+-----------
+nome: gcgm
+problema: f
+was: 3
+acs: 1
+hora: 02:07
+-----------
+nome: gcgm
+problema: g
+was: 3
+acs: 0
+hora: NULL
+-----------
+nome: gcgm
+problema: i
+was: 0
+acs: 1
+hora: 01:09
+-----------
+nome: gcgm
+problema: j
+was: 2
+acs: 1
+hora: 01:55
+-----------
+nome: gffarias
+problema: c
+was: 0
+acs: 1
+hora: 01:46
+-----------
+nome: gffarias
+problema: e
+was: 0
+acs: 1
+hora: 00:36
+-----------
+nome: gffarias
+problema: f
+was: 7
+acs: 1
+hora: 01:36
+-----------
+nome: gffarias
+problema: i
+was: 0
+acs: 1
+hora: 00:43
+-----------
+nome: gffarias
+problema: j
+was: 1
+acs: 1
+hora: 02:12
+-----------
+nome: 123499
+problema: b
+was: 5
+acs: 0
+hora: NULL
+-----------
+nome: 123499
+problema: c
+was: 0
+acs: 1
+hora: 00:19
+-----------
+nome: 123499
+problema: d
+was: 1
+acs: 0
+hora: NULL
+-----------
+nome: 123499
+problema: e
+was: 0
+acs: 1
+hora: 00:26
+-----------
+nome: 123499
+problema: f
+was: 0
+acs: 1
+hora: 00:45
+-----------
+nome: 123499
+problema: g
+was: 4
+acs: 0
+hora: NULL
+-----------
+nome: 123499
+problema: i
+was: 0
+acs: 1
+hora: 01:42
+-----------
+nome: gvh
+problema: e
+was: 0
+acs: 1
+hora: 00:18
+-----------
+nome: gvh
+problema: f
+was: 1
+acs: 1
+hora: 02:25
+-----------
+nome: gvh
+problema: i
+was: 0
+acs: 1
+hora: 00:29
+-----------
+nome: gvh
+problema: j
+was: 0
+acs: 1
+hora: 00:48
+-----------
+nome: pnc
+problema: c
+was: 0
+acs: 1
+hora: 01:06
+-----------
+nome: pnc
+problema: d
+was: 2
+acs: 0
+hora: NULL
+-----------
+nome: pnc
+problema: e
+was: 0
+acs: 1
+hora: 00:52
+-----------
+nome: pnc
+problema: f
+was: 0
+acs: 1
+hora: 01:41
+-----------
+nome: pnc
+problema: i
+was: 2
+acs: 1
+hora: 00:45
+-----------
+nome: vinidj
+problema: a
+was: 0
+acs: 1
+hora: 01:55
+-----------
+nome: vinidj
+problema: e
+was: 0
+acs: 1
+hora: 00:29
+-----------
+nome: vinidj
+problema: f
+was: 1
+acs: 1
+hora: 02:35
+-----------
+nome: vinidj
+problema: i
+was: 1
+acs: 1
+hora: 00:15
+-----------
+nome: lmg2
+problema: b
+was: 5
+acs: 0
+hora: NULL
+-----------
+nome: lmg2
+problema: c
+was: 0
+acs: 1
+hora: 00:37
+-----------
+nome: lmg2
+problema: f
+was: 0
+acs: 1
+hora: 02:20
+-----------
+nome: lmg2
+problema: i
+was: 0
+acs: 1
+hora: 00:25
+-----------
+nome: lmg2
+problema: j
+was: 0
+acs: 1
+hora: 02:43
+-----------
+nome: gso
+problema: e
+was: 1
+acs: 1
+hora: 02:13
+-----------
+nome: gso
+problema: h
+was: 3
+acs: 1
+hora: 01:57
+-----------
+nome: gso
+problema: i
+was: 0
+acs: 1
+hora: 00:56
+-----------
+nome: gso
+problema: j
+was: 2
+acs: 1
+hora: 02:43
+-----------
+nome: alpvj
+problema: d
+was: 2
+acs: 0
+hora: NULL
+-----------
+nome: alpvj
+problema: e
+was: 0
+acs: 1
+hora: 00:29
+-----------
+nome: alpvj
+problema: f
+was: 1
+acs: 1
+hora: 01:53
+-----------
+nome: alpvj
+problema: i
+was: 0
+acs: 1
+hora: 00:06
+-----------
+nome: alpvj
+problema: j
+was: 2
+acs: 0
+hora: NULL
+-----------
+nome: fmln
+problema: e
+was: 0
+acs: 1
+hora: 00:41
+-----------
+nome: fmln
+problema: f
+was: 0
+acs: 1
+hora: 02:22
+-----------
+nome: fmln
+problema: i
+was: 0
+acs: 1
+hora: 00:22
+-----------
+nome: fmln
+problema: j
+was: 2
+acs: 0
+hora: NULL
+-----------
+nome: rap2
+problema: c
+was: 0
+acs: 1
+hora: 01:49
+-----------
+nome: rap2
+problema: e
+was: 0
+acs: 1
+hora: 01:15
+-----------
+nome: rap2
+problema: f
+was: 3
+acs: 0
+hora: NULL
+-----------
+nome: rap2
+problema: i
+was: 1
+acs: 1
+hora: 01:55
+-----------
+nome: arttt
+problema: e
+was: 0
+acs: 1
+hora: 00:31
+-----------
+nome: arttt
+problema: i
+was: 3
+acs: 1
+hora: 01:27
+-----------
+nome: arttt
+problema: j
+was: 2
+acs: 1
+hora: 02:42
+-----------
+nome: gbrls
+problema: a
+was: 2
+acs: 1
+hora: 01:34
+-----------
+nome: gbrls
+problema: e
+was: 0
+acs: 1
+hora: 02:23
+-----------
+nome: gbrls
+problema: f
+was: 1
+acs: 1
+hora: 02:37
+-----------
+nome: pedrodamatta
+problema: c
+was: 6
+acs: 1
+hora: 02:45
+-----------
+nome: pedrodamatta
+problema: e
+was: 0
+acs: 1
+hora: 01:10
+-----------
+nome: pedrodamatta
+problema: i
+was: 10
+acs: 1
+hora: 01:17
+-----------
+nome: afcf
+problema: e
+was: 1
+acs: 1
+hora: 00:50
+-----------
+nome: afcf
+problema: i
+was: 1
+acs: 1
+hora: 01:27
+-----------
+nome: gbc8
+problema: b
+was: 1
+acs: 0
+hora: NULL
+-----------
+nome: gbc8
+problema: e
+was: 0
+acs: 1
+hora: 01:20
+-----------
+nome: gbc8
+problema: i
+was: 1
+acs: 1
+hora: 01:48
+-----------
+nome: vefg
+problema: a
+was: 1
+acs: 0
+hora: NULL
+-----------
+nome: vefg
+problema: d
+was: 0
+acs: 1
+hora: 01:36
+-----------
+nome: vefg
+problema: e
+was: 1
+acs: 1
+hora: 02:44
+-----------
+nome: ibps
+problema: e
+was: 0
+acs: 1
+hora: 00:27
+-----------
+nome: ibps
+problema: j
+was: 1
+acs: 0
+hora: NULL
+-----------
